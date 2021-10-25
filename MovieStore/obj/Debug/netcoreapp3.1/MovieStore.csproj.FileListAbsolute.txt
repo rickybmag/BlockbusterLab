@@ -1,0 +1,14 @@
+C:\Users\Rmagdaleno\source\repos\MovieStore\MovieStore\bin\Debug\netcoreapp3.1\MovieStore.exe
+C:\Users\Rmagdaleno\source\repos\MovieStore\MovieStore\bin\Debug\netcoreapp3.1\MovieStore.deps.json
+C:\Users\Rmagdaleno\source\repos\MovieStore\MovieStore\bin\Debug\netcoreapp3.1\MovieStore.runtimeconfig.json
+C:\Users\Rmagdaleno\source\repos\MovieStore\MovieStore\bin\Debug\netcoreapp3.1\MovieStore.runtimeconfig.dev.json
+C:\Users\Rmagdaleno\source\repos\MovieStore\MovieStore\bin\Debug\netcoreapp3.1\MovieStore.dll
+C:\Users\Rmagdaleno\source\repos\MovieStore\MovieStore\bin\Debug\netcoreapp3.1\MovieStore.pdb
+C:\Users\Rmagdaleno\source\repos\MovieStore\MovieStore\obj\Debug\netcoreapp3.1\MovieStore.csproj.AssemblyReference.cache
+C:\Users\Rmagdaleno\source\repos\MovieStore\MovieStore\obj\Debug\netcoreapp3.1\MovieStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rmagdaleno\source\repos\MovieStore\MovieStore\obj\Debug\netcoreapp3.1\MovieStore.AssemblyInfoInputs.cache
+C:\Users\Rmagdaleno\source\repos\MovieStore\MovieStore\obj\Debug\netcoreapp3.1\MovieStore.AssemblyInfo.cs
+C:\Users\Rmagdaleno\source\repos\MovieStore\MovieStore\obj\Debug\netcoreapp3.1\MovieStore.csproj.CoreCompileInputs.cache
+C:\Users\Rmagdaleno\source\repos\MovieStore\MovieStore\obj\Debug\netcoreapp3.1\MovieStore.dll
+C:\Users\Rmagdaleno\source\repos\MovieStore\MovieStore\obj\Debug\netcoreapp3.1\MovieStore.pdb
+C:\Users\Rmagdaleno\source\repos\MovieStore\MovieStore\obj\Debug\netcoreapp3.1\MovieStore.genruntimeconfig.cache
